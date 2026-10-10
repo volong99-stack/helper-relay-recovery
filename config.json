@@ -1,0 +1,23 @@
+{
+  "codex_exe": "/path/to/AppData/Local/OpenAI/Codex/bin/9691020b546a15b2/codex.exe",
+  "cwd": "/path/to/Documents/Codex/2026-10-06/work",
+  "thread_id": "00000000-0000-0000-0000-000000000000",
+  "extension_instance_id": "00000000-0000-0000-0000-000000000000",
+  "rollout_path": "/path/to/.codex/sessions/2026/10/06/rollout-2026-10-06T12-15-36-00000000-0000-0000-0000-000000000000.jsonl",
+  "rollout_offset": 188902239,
+  "handoff_turn_id": "00000000-0000-0000-0000-000000000000",
+  "cycle_minutes": 15,
+  "cycle_delay_seconds": 30,
+  "startup_timeout_seconds": 600,
+  "heartbeat_timeout_seconds": 180,
+  "worker_max_seconds": 1200,
+  "max_failures": 3,
+  "launcher": "existing_session_queue",
+  "python_exe": "/path/to/venv/Scripts/python.exe",
+  "mailbox_bridge": "/path/to/Documents/Codex/2026-09-30/ch/outputs/muse-codex-bridge/bridge.py",
+  "mailbox_db": "/path/to/Documents/Codex/2026-09-30/ch/outputs/muse-codex-bridge/messages.sqlite3",
+  "browser_timeout_seconds": 180,
+  "send_timeout_seconds": 120,
+  "reply_timeout_seconds": 120,
+  "overall_timeout_seconds": 900
+}
