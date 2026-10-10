@@ -1,0 +1,17 @@
+# Bytecode / build artifacts
+__pycache__/
+*.py[cod]
+
+# Runtime state (databases, receipts, checkpoints, probes)
+*.db
+*.sqlite3
+*.json
+
+# Logs
+*.log
+
+# Secrets / env
+.env
+
+# OS noise
+.DS_Store
